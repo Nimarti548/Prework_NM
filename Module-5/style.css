@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+}
+
+#p1 {
+    color: red;
+}
+
+#p2 {
+    color: blue;
+}
+
+#p3 {
+    color: green;
+}
+
+#p4 {
+    font-size: x-large;
+}
+
+#p5 {
+    font-size: x-small;
+}
+
+#p6 {
+    text-align: center;
+}
+
+#p7 {
+   font-weight: bolder;
+}
+
+#p8 {
+    font-family: fantasy;
+}
+
+#p9 {
+    color: orange; font-weight: bolder; font-size: x-large;
+}
+
+.styledFont {
+    color: green;
+    font-family: cursive;
+    font-style: oblique;
+}
+
+#styledImage {
+    border-style: solid;
+    border-color: yellow;
+    border-width:thick;
+}
