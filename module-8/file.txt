@@ -1,0 +1,5 @@
+1. img did not have the proper syntax so I fixed that.
+2. the javascript src was not the same as the file name
+3. the header boo the dog fan page needed a header tag
+4. the button function code needed to be cleaned up and needed the right syntax
+5. the wiki url needed to be copied and pasted inside the quotes
